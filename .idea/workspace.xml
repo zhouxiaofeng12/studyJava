@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9020e5d1-443d-483a-8ff2-77252ad1a338" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MainThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MyRunnable" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MyRunnable/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MyRunnable/MyRunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/MyThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/SaleTicket" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/SaleTicket/saleTicket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/SaleTicket/saleTicketDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/daemon" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/daemon/ThreadDaemon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/daemon/ThreadDaemonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/jionDemo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/jionDemo/ThreadJion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/jionDemo/ThreadJionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/priority" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/priority/ThreadPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/studyJava/com/thread/priority/ThreadPriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cli" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/cli/example" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/cli/example/util" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/crashdemo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/junitdemo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/junitdemo/com" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/studyJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJava.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AgEPp07EYWMnqOG2WDjCO6upps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mianshi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.junitdemo.com" />
+      <recent name="com.mianshi" />
+      <recent name="com.thread.SaleTicket" />
+      <recent name="com.thread.daemon" />
+      <recent name="com.thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DemoTest.testAdd">
+    <configuration name="乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.乘积" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AES" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AES" />
+      <module name="studyJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="小米面试题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.小米面试题" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三个数的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.三个数的最大乘积" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="小米面试题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.小米面试题" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三个数的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.三个数的最大乘积" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.mianshi.ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.ListNode" />
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junitdemo.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.junitdemo.com" />
+      <option name="MAIN_CLASS_NAME" value="com.junitdemo.com.DemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junitdemo.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.junitdemo.com" />
+      <option name="MAIN_CLASS_NAME" value="com.junitdemo.com.DemoTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AES" />
+      <item itemvalue="Application.乘积" />
+      <item itemvalue="Application.com.mianshi.ListNode" />
+      <item itemvalue="JUnit.DemoTest" />
+      <item itemvalue="JUnit.DemoTest.testAdd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoTest.testAdd" />
+        <item itemvalue="JUnit.DemoTest" />
+        <item itemvalue="Application.AES" />
+        <item itemvalue="Application.乘积" />
+        <item itemvalue="Application.com.mianshi.ListNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9020e5d1-443d-483a-8ff2-77252ad1a338" name="Default Changelist" comment="" />
+      <created>1655422806632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655422806632</updated>
+      <workItem from="1655422807961" duration="2582000" />
+      <workItem from="1655534944766" duration="10937000" />
+      <workItem from="1655790493666" duration="132000" />
+      <workItem from="1656028827770" duration="480000" />
+      <workItem from="1656677545315" duration="5000" />
+      <workItem from="1659175652748" duration="131000" />
+      <workItem from="1660039274722" duration="545000" />
+      <workItem from="1660047088389" duration="1318000" />
+      <workItem from="1660228625807" duration="4926000" />
+      <workItem from="1660308920922" duration="712000" />
+      <workItem from="1660357648754" duration="14824000" />
+      <workItem from="1660467094109" duration="471000" />
+      <workItem from="1660605500812" duration="1058000" />
+      <workItem from="1660727503282" duration="1309000" />
+      <workItem from="1660836995046" duration="3789000" />
+      <workItem from="1661387453150" duration="302000" />
+      <workItem from="1661699586680" duration="3195000" />
+      <workItem from="1661740536653" duration="3613000" />
+      <workItem from="1661778452651" duration="1369000" />
+      <workItem from="1661786087991" duration="919000" />
+      <workItem from="1667142111082" duration="840000" />
+      <workItem from="1669530023447" duration="638000" />
+      <workItem from="1669533904533" duration="2955000" />
+      <workItem from="1669727002838" duration="893000" />
+    </task>
+    <task id="LOCAL-00001" summary="add javaproject">
+      <created>1655790604028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655790604028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add javaproject" />
+    <option name="LAST_COMMIT_MESSAGE" value="add javaproject" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
